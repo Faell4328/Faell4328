@@ -1,6 +1,4 @@
-# Rhafaell Henrique
-
-Olá sou desenvolvedor full-stack, apaixonado por tecnologias, xadrez e música.
+Olá! Sou Rhafaell Henrique, desenvolvedor full‑stack com paixão por programação. Fora do código, sou músico (flauta transversal) e também praticante de xadrez.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhafaell-henrique/)
 
