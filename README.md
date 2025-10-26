@@ -1,7 +1,8 @@
-Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por programação. Fora do código, sou músico (toco flauta transversal) e apaixonado por xadrez.
+Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por programação.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhafaell-henrique/)  
-[![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=for-the-badge)](https://lichess.org/@/Faell4328)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhafaell-henrique/)
+[![Blog](https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=%3CURL_do_icone%3E&logoColor=white)](https://faell4328.github.io/blog)
 
 ---
 
@@ -15,6 +16,7 @@ Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por pr
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 ### **Back-end**  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
