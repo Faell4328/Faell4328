@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400px" src="faell.gif" alt="animation">
+</p>
+
 Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por programação.
 
 
