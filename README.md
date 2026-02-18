@@ -7,6 +7,7 @@ Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por pr
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhafaell-henrique/)
 [![Blog](https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=%3CURL_do_icone%3E&logoColor=white)](https://faell4328.github.io/blog)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@faell4328)
 
 ---
 
@@ -41,7 +42,3 @@ Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por pr
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faell4328&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
