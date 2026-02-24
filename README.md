@@ -4,6 +4,7 @@
 
 Olá! Sou **Rhafaell Henrique**, desenvolvedor **full-stack** com paixão por programação.
 
+<i>Earn this.</i>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhafaell-henrique/)
 [![Blog](https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=%3CURL_do_icone%3E&logoColor=white)](https://faell4328.github.io/blog)
